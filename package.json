@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
+    "eslint-cli": "^1.1.1",
     "firebase": "^9.6.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -18,7 +19,7 @@
     "@babel/eslint-parser": "^7.17.0",
     "@vitejs/plugin-react": "^1.0.7",
     "autoprefixer": "^10.4.2",
-    "eslint": "^8.10.0",
+    "eslint": "^8.14.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.25.4",
